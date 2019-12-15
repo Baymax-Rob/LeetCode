@@ -1,0 +1,2 @@
+# LeetCode
+LeetCode's studying 
